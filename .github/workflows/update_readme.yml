@@ -6,7 +6,7 @@ on:
     - cron: "0 */1 * * *"
 
 jobs:
-  markscribe:
+  activity-action:
     runs-on: ubuntu-latest
 
     steps:

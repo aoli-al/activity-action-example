@@ -24,13 +24,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{705}}}$$
+                            $${\scriptsize{\color{black}\text{705}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{104257}}}$$
+                            $${\scriptsize{\color{green}+\text{104257}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{73158}}}$$
+                            $${\scriptsize{\color{red}-\text{73158}}}$$
                         </th>
                     </tr>
                 </table>
@@ -58,13 +58,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{17}}}$$
+                            $${\scriptsize{\color{black}\text{17}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{1588}}}$$
+                            $${\scriptsize{\color{green}+\text{1588}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{130}}}$$
+                            $${\scriptsize{\color{red}-\text{130}}}$$
                         </th>
                     </tr>
                 </table>
@@ -92,13 +92,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{9}}}$$
+                            $${\scriptsize{\color{black}\text{9}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{6219}}}$$
+                            $${\scriptsize{\color{green}+\text{6219}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{5609}}}$$
+                            $${\scriptsize{\color{red}-\text{5609}}}$$
                         </th>
                     </tr>
                 </table>
@@ -126,13 +126,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{9}}}$$
+                            $${\scriptsize{\color{black}\text{9}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{9}}}$$
+                            $${\scriptsize{\color{green}+\text{9}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{9}}}$$
+                            $${\scriptsize{\color{red}-\text{9}}}$$
                         </th>
                     </tr>
                 </table>
@@ -160,13 +160,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{8}}}$$
+                            $${\scriptsize{\color{black}\text{8}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{1116}}}$$
+                            $${\scriptsize{\color{green}+\text{1116}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{386}}}$$
+                            $${\scriptsize{\color{red}-\text{386}}}$$
                         </th>
                     </tr>
                 </table>
@@ -194,13 +194,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{6}}}$$
+                            $${\scriptsize{\color{black}\text{6}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{989}}}$$
+                            $${\scriptsize{\color{green}+\text{989}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{98}}}$$
+                            $${\scriptsize{\color{red}-\text{98}}}$$
                         </th>
                     </tr>
                 </table>
@@ -228,13 +228,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{3}}}$$
+                            $${\scriptsize{\color{black}\text{3}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{456}}}$$
+                            $${\scriptsize{\color{green}+\text{456}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{56}}}$$
+                            $${\scriptsize{\color{red}-\text{56}}}$$
                         </th>
                     </tr>
                 </table>
@@ -262,13 +262,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{3}}}$$
+                            $${\scriptsize{\color{black}\text{3}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{23}}}$$
+                            $${\scriptsize{\color{green}+\text{23}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{9}}}$$
+                            $${\scriptsize{\color{red}-\text{9}}}$$
                         </th>
                     </tr>
                 </table>
@@ -296,13 +296,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{2}}}$$
+                            $${\scriptsize{\color{black}\text{2}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{618}}}$$
+                            $${\scriptsize{\color{green}+\text{618}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{473}}}$$
+                            $${\scriptsize{\color{red}-\text{473}}}$$
                         </th>
                     </tr>
                 </table>
@@ -330,13 +330,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{2}}}$$
+                            $${\scriptsize{\color{black}\text{2}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{185}}}$$
+                            $${\scriptsize{\color{green}+\text{185}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{32}}}$$
+                            $${\scriptsize{\color{red}-\text{32}}}$$
                         </th>
                     </tr>
                 </table>
@@ -364,13 +364,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{2}}}$$
+                            $${\scriptsize{\color{black}\text{2}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{122}}}$$
+                            $${\scriptsize{\color{green}+\text{122}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{3}}}$$
+                            $${\scriptsize{\color{red}-\text{3}}}$$
                         </th>
                     </tr>
                 </table>
@@ -398,13 +398,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{1}}}$$
+                            $${\scriptsize{\color{black}\text{1}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{53}}}$$
+                            $${\scriptsize{\color{green}+\text{53}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{6}}}$$
+                            $${\scriptsize{\color{red}-\text{6}}}$$
                         </th>
                     </tr>
                 </table>
@@ -432,13 +432,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{1}}}$$
+                            $${\scriptsize{\color{black}\text{1}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{26}}}$$
+                            $${\scriptsize{\color{green}+\text{26}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{24}}}$$
+                            $${\scriptsize{\color{red}-\text{24}}}$$
                         </th>
                     </tr>
                 </table>
@@ -466,13 +466,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{1}}}$$
+                            $${\scriptsize{\color{black}\text{1}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{5}}}$$
+                            $${\scriptsize{\color{green}+\text{5}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{0}}}$$
+                            $${\scriptsize{\color{red}-\text{0}}}$$
                         </th>
                     </tr>
                 </table>
@@ -500,13 +500,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{1}}}$$
+                            $${\scriptsize{\color{black}\text{1}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{4}}}$$
+                            $${\scriptsize{\color{green}+\text{4}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{4}}}$$
+                            $${\scriptsize{\color{red}-\text{4}}}$$
                         </th>
                     </tr>
                 </table>
@@ -534,13 +534,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{1}}}$$
+                            $${\scriptsize{\color{black}\text{1}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{4}}}$$
+                            $${\scriptsize{\color{green}+\text{4}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{1}}}$$
+                            $${\scriptsize{\color{red}-\text{1}}}$$
                         </th>
                     </tr>
                 </table>
@@ -568,13 +568,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{1}}}$$
+                            $${\scriptsize{\color{black}\text{1}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{2}}}$$
+                            $${\scriptsize{\color{green}+\text{2}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{0}}}$$
+                            $${\scriptsize{\color{red}-\text{0}}}$$
                         </th>
                     </tr>
                 </table>
@@ -602,13 +602,13 @@
                 <table>
                     <tr>
                         <th width="50px">
-                            $${\footnotesize{\color{black}\text{1}}}$$
+                            $${\scriptsize{\color{black}\text{1}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{green}+\text{1}}}$$
+                            $${\scriptsize{\color{green}+\text{1}}}$$
                         </th>
                         <th width="80px">
-                            $${\footnotesize{\color{red}-\text{2}}}$$
+                            $${\scriptsize{\color{red}-\text{2}}}$$
                         </th>
                     </tr>
                 </table>

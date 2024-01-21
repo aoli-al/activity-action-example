@@ -4,17 +4,17 @@
 
 <th>
     <table>
-        <tr>
+        <tr style="text-align: center">
             <td style="text-align: center">
                 <img src="https://avatars.githubusercontent.com/u/5557706?v=4" alt="1" width=100px height=100px>
             </td>
         </tr>
-        <tr>
+        <tr style="text-align: center">
             <td style="text-align: center">
                aoli-al
             </td>
         </tr>
-        <tr>
+        <tr style="text-align: center">
             <td style="text-align: center">
                 <table>
                     <tr>

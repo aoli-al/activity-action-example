@@ -2,12 +2,6 @@
 
 
 
-<style>
-#activity-table {
-    width: 50px;
-    text-align: center;
-}
-</style><table><tr>
 <th>
     <table>
         <tr>
@@ -17,6 +11,7 @@
         </tr>
         <tr>
             <td style="text-align: center">
+            $${\color{red}Red}$$
                aoli-al
             </td>
         </tr>
@@ -28,10 +23,10 @@
                             <span>9</span>
                         </th>
                         <th id="activity-table">
-                            <span style="color:green">+45</span>
+                            $${\color{green}+45}$$
                         </th>
                         <th id="activity-table">
-                            <span style="color:red">-10</span>
+                            $${\color{red}-10}$$
                         </th>
                     </tr>
                 </table>
@@ -39,4 +34,3 @@
         </tr>
     </table>
 </th>
-        

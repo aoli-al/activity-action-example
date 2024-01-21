@@ -26,10 +26,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{705}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{104257}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{73158}}}$$
                         </th>
                     </tr>
@@ -60,10 +60,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{17}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{1588}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{130}}}$$
                         </th>
                     </tr>
@@ -94,10 +94,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{9}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{6219}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{5609}}}$$
                         </th>
                     </tr>
@@ -128,10 +128,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{9}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{9}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{9}}}$$
                         </th>
                     </tr>
@@ -162,10 +162,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{8}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{1116}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{386}}}$$
                         </th>
                     </tr>
@@ -196,10 +196,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{6}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{989}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{98}}}$$
                         </th>
                     </tr>
@@ -230,10 +230,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{3}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{456}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{56}}}$$
                         </th>
                     </tr>
@@ -264,10 +264,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{3}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{23}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{9}}}$$
                         </th>
                     </tr>
@@ -298,10 +298,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{2}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{618}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{473}}}$$
                         </th>
                     </tr>
@@ -332,10 +332,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{2}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{185}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{32}}}$$
                         </th>
                     </tr>
@@ -366,10 +366,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{2}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{122}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{3}}}$$
                         </th>
                     </tr>
@@ -400,10 +400,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{1}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{53}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{6}}}$$
                         </th>
                     </tr>
@@ -434,10 +434,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{1}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{26}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{24}}}$$
                         </th>
                     </tr>
@@ -468,10 +468,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{1}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{5}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{0}}}$$
                         </th>
                     </tr>
@@ -502,10 +502,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{1}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{4}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{4}}}$$
                         </th>
                     </tr>
@@ -536,10 +536,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{1}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{4}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{1}}}$$
                         </th>
                     </tr>
@@ -570,10 +570,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{1}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{2}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{0}}}$$
                         </th>
                     </tr>
@@ -604,10 +604,10 @@
                         <th width="50px">
                             $${\small{\color{black}\text{1}}}$$
                         </th>
-                        <th width="30px">
+                        <th width="80px">
                             $${\small{\color{green}+\text{1}}}$$
                         </th>
-                        <th50idth="30px">
+                        <th width="80px">
                             $${\small{\color{red}-\text{2}}}$$
                         </th>
                     </tr>

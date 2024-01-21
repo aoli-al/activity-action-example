@@ -11,7 +11,6 @@
         </tr>
         <tr>
             <td style="text-align: center">
-            $${\color{red}Red}$$
                aoli-al
             </td>
         </tr>
@@ -23,10 +22,10 @@
                             <span>9</span>
                         </th>
                         <th id="activity-table">
-                            $${\color{green}+45}$$
+                            $${\color{green}\text{+45}}$$
                         </th>
                         <th id="activity-table">
-                            $${\color{red}-10}$$
+                            $${\color{red}\text{-10}}$$
                         </th>
                     </tr>
                 </table>

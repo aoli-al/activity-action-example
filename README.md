@@ -19,7 +19,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{14}}$$
+                            $${\color{black}\text{14}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{63}}$$

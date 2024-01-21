@@ -26,7 +26,7 @@
                         <th width="50px">
                             $${\small{\color{black}\text{705}}}$$
                         </th>
-                        <th width="90px">
+                        <th width="90px" padding="100px">
                             $${\small{\color{green}+\text{104257}}}$$
                         </th>
                         <th width="90px">

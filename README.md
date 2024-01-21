@@ -19,13 +19,13 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <span>13</span>
+                            $${\color{black}+\text{14}}$$
                         </th>
                         <th id="activity-table">
-                            $${\color{green}+55}$$
+                            $${\color{green}+\text{63}}$$
                         </th>
                         <th id="activity-table">
-                            $${\color{red}-26}$$
+                            $${\color{red}-\text{33}}$$
                         </th>
                     </tr>
                 </table>

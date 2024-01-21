@@ -24,14 +24,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{705}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{104257}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{73158}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -59,14 +61,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{17}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{1588}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{130}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -94,14 +98,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{9}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{6219}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{5609}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -129,14 +135,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{9}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{9}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{9}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -164,14 +172,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{8}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{1116}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{386}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -199,14 +209,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{6}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{989}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{98}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -234,14 +246,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{3}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{456}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{56}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -269,14 +283,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{3}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{23}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{9}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -304,14 +320,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{2}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{618}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{473}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -339,14 +357,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{2}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{185}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{32}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -374,14 +394,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{2}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{122}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{3}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -409,14 +431,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{53}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{6}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -444,14 +468,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{26}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{24}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -479,14 +505,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{5}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{0}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -514,14 +542,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{4}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{4}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -549,14 +579,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{4}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -584,14 +616,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{2}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{0}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>
@@ -619,14 +653,16 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            <img width="50px" height="1">
                             $${\color{black}\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{1}}$$
+                            <img width="50px" height="1">
                         </th>
                         <th id="activity-table">
                             $${\color{red}-\text{2}}$$
+                            <img width="50px" height="1">
                         </th>
                     </tr>
                 </table>

@@ -9,12 +9,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/4233266?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/4233266?v=4" alt="1" width=100px height=100px href="https://github.com/rohanpadhye">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               rohanpadhye
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=rohanpadhye">rohanpadhye</a>
             </td>
         </tr>
         <tr>
@@ -22,7 +22,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{705}}$$
+                            $${\color{black}\text{705}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{104257}}$$
@@ -41,12 +41,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/7470211?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/7470211?v=4" alt="1" width=100px height=100px href="https://github.com/carolemieux">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               carolemieux
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=carolemieux">carolemieux</a>
             </td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{17}}$$
+                            $${\color{black}\text{17}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{1588}}$$
@@ -73,12 +73,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/3836748?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/3836748?v=4" alt="1" width=100px height=100px href="https://github.com/vasumv">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               vasumv
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=vasumv">vasumv</a>
             </td>
         </tr>
         <tr>
@@ -86,7 +86,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{9}}$$
+                            $${\color{black}\text{9}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{6219}}$$
@@ -105,12 +105,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/in/29110?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/in/29110?v=4" alt="1" width=100px height=100px href="https://github.com/dependabot[bot]">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               dependabot[bot]
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=dependabot[bot]">dependabot[bot]</a>
             </td>
         </tr>
         <tr>
@@ -118,7 +118,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{9}}$$
+                            $${\color{black}\text{9}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{9}}$$
@@ -137,12 +137,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/5557706?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/5557706?v=4" alt="1" width=100px height=100px href="https://github.com/aoli-al">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               aoli-al
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=aoli-al">aoli-al</a>
             </td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{8}}$$
+                            $${\color{black}\text{8}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{1116}}$$
@@ -169,12 +169,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/2130186?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/2130186?v=4" alt="1" width=100px height=100px href="https://github.com/jon-bell">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               jon-bell
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=jon-bell">jon-bell</a>
             </td>
         </tr>
         <tr>
@@ -182,7 +182,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{6}}$$
+                            $${\color{black}\text{6}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{989}}$$
@@ -201,12 +201,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/55360182?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/55360182?v=4" alt="1" width=100px height=100px href="https://github.com/saphirasnow">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               saphirasnow
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=saphirasnow">saphirasnow</a>
             </td>
         </tr>
         <tr>
@@ -214,7 +214,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{3}}$$
+                            $${\color{black}\text{3}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{456}}$$
@@ -233,12 +233,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/213894?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/213894?v=4" alt="1" width=100px height=100px href="https://github.com/vlsi">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               vlsi
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=vlsi">vlsi</a>
             </td>
         </tr>
         <tr>
@@ -246,7 +246,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{3}}$$
+                            $${\color{black}\text{3}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{23}}$$
@@ -265,12 +265,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/32645020?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/32645020?v=4" alt="1" width=100px height=100px href="https://github.com/katherine-hough">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               katherine-hough
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=katherine-hough">katherine-hough</a>
             </td>
         </tr>
         <tr>
@@ -278,7 +278,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{2}}$$
+                            $${\color{black}\text{2}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{618}}$$
@@ -297,12 +297,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/71688932?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/71688932?v=4" alt="1" width=100px height=100px href="https://github.com/rvs314">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               rvs314
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=rvs314">rvs314</a>
             </td>
         </tr>
         <tr>
@@ -310,7 +310,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{2}}$$
+                            $${\color{black}\text{2}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{185}}$$
@@ -329,12 +329,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/1428689?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/1428689?v=4" alt="1" width=100px height=100px href="https://github.com/floyd-fuh">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               floyd-fuh
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=floyd-fuh">floyd-fuh</a>
             </td>
         </tr>
         <tr>
@@ -342,7 +342,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{2}}$$
+                            $${\color{black}\text{2}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{122}}$$
@@ -361,12 +361,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/4169942?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/4169942?v=4" alt="1" width=100px height=100px href="https://github.com/Ahmedfir">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               Ahmedfir
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=Ahmedfir">Ahmedfir</a>
             </td>
         </tr>
         <tr>
@@ -374,7 +374,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{1}}$$
+                            $${\color{black}\text{1}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{53}}$$
@@ -393,12 +393,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/40366337?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/40366337?v=4" alt="1" width=100px height=100px href="https://github.com/albertchen-sifive">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               albertchen-sifive
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=albertchen-sifive">albertchen-sifive</a>
             </td>
         </tr>
         <tr>
@@ -406,7 +406,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{1}}$$
+                            $${\color{black}\text{1}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{26}}$$
@@ -425,12 +425,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/35604271?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/35604271?v=4" alt="1" width=100px height=100px href="https://github.com/shuaiwang516">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               shuaiwang516
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=shuaiwang516">shuaiwang516</a>
             </td>
         </tr>
         <tr>
@@ -438,7 +438,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{1}}$$
+                            $${\color{black}\text{1}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{5}}$$
@@ -457,12 +457,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/1767219?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/1767219?v=4" alt="1" width=100px height=100px href="https://github.com/davidyoung8906">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               davidyoung8906
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=davidyoung8906">davidyoung8906</a>
             </td>
         </tr>
         <tr>
@@ -470,7 +470,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{1}}$$
+                            $${\color{black}\text{1}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{4}}$$
@@ -489,12 +489,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/2736207?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/2736207?v=4" alt="1" width=100px height=100px href="https://github.com/stheid">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               stheid
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=stheid">stheid</a>
             </td>
         </tr>
         <tr>
@@ -502,7 +502,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{1}}$$
+                            $${\color{black}\text{1}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{4}}$$
@@ -521,12 +521,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/42714590?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/42714590?v=4" alt="1" width=100px height=100px href="https://github.com/claudeyj">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               claudeyj
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=claudeyj">claudeyj</a>
             </td>
         </tr>
         <tr>
@@ -534,7 +534,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{1}}$$
+                            $${\color{black}\text{1}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{2}}$$
@@ -553,12 +553,12 @@
     <table>
         <tr>
             <td style="text-align: center">
-                <img src="https://avatars.githubusercontent.com/u/17148247?v=4" alt="1" width=100px height=100px>
+                <img src="https://avatars.githubusercontent.com/u/17148247?v=4" alt="1" width=100px height=100px href="https://github.com/guyarb">
             </td>
         </tr>
         <tr>
             <td style="text-align: center">
-               guyarb
+               <a href="https://github.com/rohanpadhye/JQF/commits?author=guyarb">guyarb</a>
             </td>
         </tr>
         <tr>
@@ -566,7 +566,7 @@
                 <table>
                     <tr>
                         <th id="activity-table">
-                            $${\color{black}+\text{1}}$$
+                            $${\color{black}\text{1}}$$
                         </th>
                         <th id="activity-table">
                             $${\color{green}+\text{1}}$$

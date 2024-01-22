@@ -24,13 +24,13 @@
                 <table border="0" cellspacing="0" cellpadding="0">
                     <tr>
                         <th width="50px" style="padding:1px">
-                            $${\small{\color{black}\text{32}}}$$
+                            $${\small{\color{black}\text{34}}}$$
                         </th>
                         <th width="80px" style="padding:1px">
-                            $${\small{\color{green}+\text{1406}}}$$
+                            $${\small{\color{green}+\text{2030}}}$$
                         </th>
                         <th width="80px" style="padding:1px">
-                            $${\small{\color{red}-\text{784}}}$$
+                            $${\small{\color{red}-\text{785}}}$$
                         </th>
                     </tr>
                 </table>

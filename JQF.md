@@ -4,7 +4,7 @@
 
 # Contributors
 
-## Project 2
+## Project 2 (2023-09-01-2023-10-13)
 <details>
     <summary>Click to expand!</summary>
 <table><tr>
@@ -22,7 +22,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=gonzalezjo">gonzalezjo</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=gonzalezjo">gonzalezjo</a>
                         </th>
                     <tr>
                 </table>
@@ -79,7 +79,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=ruiminggu">ruiminggu</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=ruiminggu">ruiminggu</a>
                         </th>
                     <tr>
                 </table>
@@ -136,7 +136,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=zhijinwuu">zhijinwuu</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=zhijinwuu">zhijinwuu</a>
                         </th>
                     <tr>
                 </table>
@@ -193,7 +193,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=Noor-5">Noor-5</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=Noor-5">Noor-5</a>
                         </th>
                     <tr>
                 </table>
@@ -250,7 +250,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=coveralls">coveralls</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=coveralls">coveralls</a>
                         </th>
                     <tr>
                 </table>
@@ -294,7 +294,7 @@
 </th>
 </tr></table></details>
 
-## Project 3
+## Project 3 (2023-10-13-2023-11-02)
 <details>
     <summary>Click to expand!</summary>
 <table><tr>
@@ -312,7 +312,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=gonzalezjo">gonzalezjo</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=gonzalezjo">gonzalezjo</a>
                         </th>
                     <tr>
                 </table>
@@ -369,7 +369,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=snyk-bot">snyk-bot</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=snyk-bot">snyk-bot</a>
                         </th>
                     <tr>
                 </table>
@@ -426,7 +426,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=coveralls">coveralls</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=coveralls">coveralls</a>
                         </th>
                     <tr>
                 </table>
@@ -476,14 +476,14 @@
                 <table>
                     <tr>
                         <th>
-                            <a href="https://github.com/zhijinwuu">
-                                <img src="https://github.com/zhijinwuu.png" alt="1" width=100px height=100px>
+                            <a href="https://github.com/ruiminggu">
+                                <img src="https://github.com/ruiminggu.png" alt="1" width=100px height=100px>
                             </a>
                         </th>
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=zhijinwuu">zhijinwuu</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=ruiminggu">ruiminggu</a>
                         </th>
                     <tr>
                 </table>
@@ -533,14 +533,14 @@
                 <table>
                     <tr>
                         <th>
-                            <a href="https://github.com/ruiminggu">
-                                <img src="https://github.com/ruiminggu.png" alt="1" width=100px height=100px>
+                            <a href="https://github.com/zhijinwuu">
+                                <img src="https://github.com/zhijinwuu.png" alt="1" width=100px height=100px>
                             </a>
                         </th>
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=ruiminggu">ruiminggu</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=zhijinwuu">zhijinwuu</a>
                         </th>
                     <tr>
                 </table>
@@ -597,7 +597,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=Noor-5">Noor-5</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=Noor-5">Noor-5</a>
                         </th>
                     <tr>
                 </table>
@@ -641,7 +641,7 @@
 </th>
 </tr></table></details>
 
-## Project 4
+## Project 4 (2023-11-02-2023-11-21)
 <details>
     <summary>Click to expand!</summary>
 <table><tr>
@@ -659,7 +659,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=gonzalezjo">gonzalezjo</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=gonzalezjo">gonzalezjo</a>
                         </th>
                     <tr>
                 </table>
@@ -709,14 +709,14 @@
                 <table>
                     <tr>
                         <th>
-                            <a href="https://github.com/coveralls">
-                                <img src="https://github.com/coveralls.png" alt="1" width=100px height=100px>
+                            <a href="https://github.com/ruiminggu">
+                                <img src="https://github.com/ruiminggu.png" alt="1" width=100px height=100px>
                             </a>
                         </th>
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=coveralls">coveralls</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=ruiminggu">ruiminggu</a>
                         </th>
                     <tr>
                 </table>
@@ -766,14 +766,14 @@
                 <table>
                     <tr>
                         <th>
-                            <a href="https://github.com/ruiminggu">
-                                <img src="https://github.com/ruiminggu.png" alt="1" width=100px height=100px>
+                            <a href="https://github.com/coveralls">
+                                <img src="https://github.com/coveralls.png" alt="1" width=100px height=100px>
                             </a>
                         </th>
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=ruiminggu">ruiminggu</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=coveralls">coveralls</a>
                         </th>
                     <tr>
                 </table>
@@ -817,7 +817,7 @@
 </th>
 </tr></table></details>
 
-## Project 5
+## Project 5 (2023-11-21-2023-12-13)
 <details>
     <summary>Click to expand!</summary>
 <table><tr>
@@ -835,7 +835,7 @@
                     <tr>
                     <tr>
                         <th>
-                            <a href="https://github.com/fall23-nodebb-code-crafters/commits?author=zhijinwuu">zhijinwuu</a>
+                            <a href="https://github.com/CMU-313/fall23-nodebb-code-crafters/commits?author=zhijinwuu">zhijinwuu</a>
                         </th>
                     <tr>
                 </table>
